@@ -1,0 +1,32 @@
+body{margin:0px; padding:0px; font-family: 'Open Sans', sans-serif;}
+.header-bg{width:100%; height:80px; background-color: #fff; position:fixed; box-shadow: 0px 0px 8px 2px #c3c3c3;}
+.main-bg{background-image: url("../../images/lbg.jpg"); height:720px; pointer:cursor; pointer:hand;}
+.main-content{padding:6% 4% 2% 4%;}
+.main-content ul{margin:0px; padding:0px;}
+.main-content ul li{display:inline; font-size:14px; font-weight:bold; color:#fff; width:25%; float:left; margin-top:3%;}
+.main-content ul li a{color:#fff; text-decoration:none;}
+.main-content-text{text-align:center; font-size:23px;}
+.main-content-img{text-align:center; line-height:228px;}
+.footer{background-color:#3379b5; height:30px; color:#fff; text-align:center; font-size:11px; line-height:30px;}
+.clear-both{clear:both;}
+.logo{padding:10px 14px 14px 14px; float:left;}
+.rightsec{float:right;}
+link {
+  color:#fff;
+}
+.menu{margin-top: 23px; float:left; cursor:pointer;}
+.menuList{ width: 450px; background-color: #006496;position: fixed;padding-left: 15px;padding-top: 30px;
+	 columns: 2;	     
+}
+.list{background-color: solid blue;color: white;}
+.image {height:23px; width:30px; padding-right:10px;}
+
+.menuList ul {margin:0px; padding:0px 0px 21px 0px;}
+.menuList ul li{list-style:none; line-height:46px; color:#fff;}
+.menuList ul li a{color:#fff; text-decoration:none;}
+.logo-image{width:80%;}
+.LoginContent-section{position:absolute; top:30%; left:10%;}
+.LoginContent-heading{color:#fff; font-size:36px;}
+.LoginContent-subtext{color:#fff; font-size:22px; padding-top:2%; width:350px; margin-bottom:18px; }
+.LoginContent-smalltext{color:#fff; font-size:12px; padding-top:4%; border-top:1px solid #fff;}
+
